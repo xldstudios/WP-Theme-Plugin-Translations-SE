@@ -1,0 +1,1512 @@
+# @ flatsome
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Flatsome Theme\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"X-Generator: Poedit 1.6.7\n"
+
+# @ flatsome
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Denna sida kunde inte hittas."
+
+# @ flatsome
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Det verkar inte som att någonting kunde hittas på detta ställe. Prova med "
+"någon av länkarna nedan eller gör en sökning."
+
+# @ default
+#: admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr "Senaste backupen:"
+
+# @ default
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Spara alla ändringar"
+
+# @ default
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Återställ inställningar"
+
+# @ flatsome
+#: archive.php:40
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+# @ flatsome
+#: archive.php:43
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Etikettarkiv: %s"
+
+# @ flatsome
+#: archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Författararkiv: %s"
+
+# @ flatsome
+#: archive.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagsarkiv: %s"
+
+# @ flatsome
+#: archive.php:61
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+# @ flatsome
+#: archive.php:64
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Årsarkiv: %s"
+
+# @ flatsome
+#: archive.php:67
+msgid "Asides"
+msgstr "Asides"
+
+# @ flatsome
+#: archive.php:70
+msgid "Images"
+msgstr "Bilder"
+
+# @ flatsome
+#: archive.php:73
+msgid "Videos"
+msgstr "Videos"
+
+# @ flatsome
+#: archive.php:76
+msgid "Quotes"
+msgstr "Citat"
+
+# @ flatsome
+#: archive.php:79
+msgid "Links"
+msgstr "Länkar"
+
+# @ flatsome
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar på &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer på &ldquo;%2$s&rdquo;"
+
+# @ flatsome
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+# @ flatsome
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+# @ flatsome
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Kommentarsnavigation"
+
+# @ flatsome
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+# @ flatsome
+#: content-page.php:17 content-single.php:32 content.php:46 image.php:92
+#: page-left-sidebar-notitle.php:22 page-right-sidebar-notitle.php:22
+msgid "Pages:"
+msgstr "Sidor:"
+
+# @ flatsome
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:50 content-single.php:53 content.php:57 content.php:65
+#: content.php:108 content.php:116 content.php:166 content.php:186
+msgid ", "
+msgstr ", "
+
+# @ flatsome
+#: content-single.php:58
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr "Detta inlägg postades i %1$s och är taggat med %2$s."
+
+# @ flatsome
+#: content-single.php:60
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Detta inlägg postades i %1$s. Lägg till <a href=\"%3$s\" title=\"Permalink "
+"för %4$s\" rel=\"bookmark\">permalänken</a> som bokmärke."
+
+# @ flatsome
+#: content-single.php:88
+msgid "by"
+msgstr "av"
+
+# @ flatsome
+#: content.php:43
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Läs mer <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: content.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postad i %1$s"
+
+# @ flatsome
+#: content.php:70 content.php:121 content.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Taggad %1$s"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>1</strong> Comment"
+msgstr "<strong>1</strong> kommentar"
+
+# @ flatsome
+#: content.php:76 content.php:132 content.php:180
+#: inc/widgets/recent-posts.php:59
+msgid "<strong>%</strong> Comments"
+msgstr "<strong>%</strong> kommentarer"
+
+# @ flatsome
+#: content.php:111 content.php:169
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ flatsome
+#: functions.php:164 inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Installera obligatoriska tillägg"
+
+# @ flatsome
+#: functions.php:165 inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Installera tillägg"
+
+# @ flatsome
+#: functions.php:166 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installerar tillägg: %s"
+
+# @ flatsome
+#: functions.php:167
+msgid "Something went wrong with the plugin API."
+msgstr "Någonting gick fel i pluginAPI:et.."
+
+# @ flatsome
+#: functions.php:168 inc/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Detta tema kräver följande tillägg: %1$s."
+msgstr[1] "Detta tema kräver följande tillägg: %1$s."
+
+# @ flatsome
+#: functions.php:169 inc/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Detta tema rekommenderar följande tillägg: %1$s."
+msgstr[1] "Detta tema rekommenderar följande tillägg: %1$s."
+
+# @ flatsome
+#: functions.php:170 inc/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Tyvärr har du inte rätt rättigheter för att installera %s tillägget. "
+"Kontakta webbplatsens administratör för att få hjälp för att installera "
+"tillägget."
+msgstr[1] ""
+"Tyvärr har du inte rätt rättigheter för att installera tilläggen %s. "
+"Kontakta webbplatsens administratör för att få hjälp för att installera "
+"tilläggen."
+
+# @ flatsome
+#: functions.php:171 inc/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Följande obligatoriska tillägget är för närvarande inaktivt: %1$s."
+msgstr[1] "Följande obligatoriska tilläggen är för närvarande inaktiva: %1$s."
+
+# @ flatsome
+#: functions.php:172 inc/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Följande rekommenderade tillägget är för närvarande inaktivt: %1$s."
+msgstr[1] "Följande rekommenderade tilläggen är för närvarande inaktiva: %1$s."
+
+# @ flatsome
+#: functions.php:173 inc/class-tgm-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Tyvärr har du inte tillräckliga rättigheter för att aktivera tillägget %s. "
+"Kontakta webbplatsens administratör för hjälp med att aktivera tillägget."
+msgstr[1] ""
+"Tyvärr har du inte tillräckliga rättigheter för att aktivera tilläggen %s. "
+"Kontakta webbplatsens administratör för hjälp med att aktivera tillägget."
+
+# @ flatsome
+#: functions.php:174 inc/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Följande tillägg behöver uppdateras till den senaste versionen för att "
+"säkerställa maximal kompatibilitet med detta tema: %1$s."
+msgstr[1] ""
+"Följande tilläggen behöver uppdateras till de senaste versionena för att "
+"säkerställa maximal kompatibilitet med detta tema: %1$s."
+
+# @ flatsome
+#: functions.php:175 inc/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Tyvärr har du inte tillräckliga rättigheter för att uppdatera tillägget %s. "
+"Kontakta webbplatsens administratör för hjälp."
+msgstr[1] ""
+"Tyvärr har du inte tillräckliga rättigheter för att uppdatera tilläggen %s. "
+"Kontakta webbplatsens administratör för hjälp."
+
+# @ flatsome
+#: functions.php:176 inc/class-tgm-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Börja installera tillägget"
+msgstr[1] "Börja installera tilläggen"
+
+# @ flatsome
+#: functions.php:177 inc/class-tgm-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktivera det installerade tillägget"
+msgstr[1] "Aktivera de installerade tilläggen"
+
+# @ flatsome
+#: functions.php:178 inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Tillbaka till installationen av obligatoriska tillägg"
+
+# @ flatsome
+#: functions.php:179 inc/class-tgm-plugin-activation.php:179
+#: inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "Tillägget installerades"
+
+# @ flatsome
+#: functions.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alla tillägg installerades och aktiverades. %s"
+
+# @ flatsome
+#: functions.php:213
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+# @ flatsome
+#: functions.php:214
+msgid "Footer Menu"
+msgstr "Sidfotmeny"
+
+# @ flatsome
+#: functions.php:215
+msgid "Top bar Menu"
+msgstr "Toppmeny"
+
+# @ flatsome
+#: functions.php:216
+msgid "My Account Menu"
+msgstr "Mitt konto-meny"
+
+# @ flatsome
+#: functions.php:231
+msgid "Sidebar"
+msgstr "Sidomeny"
+
+# @ flatsome
+#: functions.php:241
+msgid "Shop Sidebar"
+msgstr "Sidomeny: Butik"
+
+# @ flatsome
+#: functions.php:250
+msgid "Product Sidebar"
+msgstr "Sidomeny: Produkt"
+
+# @ flatsome
+#: functions.php:260
+msgid "Footer 1 (4 column)"
+msgstr "Sidfot 1 (4 kolumner)"
+
+# @ flatsome
+#: functions.php:270
+msgid "Footer 2 (4 column)"
+msgstr "Sidfot 2 (4 kolumner)"
+
+# @ default
+#: functions.php:352
+msgid "Flatsome Theme Options"
+msgstr "Flatsome temainställningar"
+
+# @ woocommerce
+#: header.php:171
+msgid "My Account"
+msgstr "Mitt konto"
+
+# @ woocommerce
+#: header.php:191 woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr "Logga in"
+
+# @ woocommerce
+#: header.php:206 inc/template-tags.php:246
+msgid "Cart"
+msgstr "Varukorg"
+
+# @ woocommerce
+#: header.php:225 inc/template-tags.php:304
+msgid "No products in the cart."
+msgstr "Inga produkter i varukorgen."
+
+# @ flatsome
+#: image.php:25
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Publicerad den <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> klockan <a href=\"%3$s\" title=\"Link "
+"to full-size image\">%4$s &times; %5$s</a> i <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+
+# @ flatsome
+#: image.php:36 image.php:109 inc/template-tags.php:77
+#: inc/template-tags.php:106
+msgid "Edit"
+msgstr "Redigera"
+
+# @ flatsome
+#: image.php:101
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment"
+"\">Kommentera</a> eller lämna en trackback: <a class=\"trackback-link\" href="
+"\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback "
+"URL</a>."
+
+# @ flatsome
+#: image.php:103
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Kommentarerna är stängda, men du kan lämna en trackback: <a class="
+"\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel="
+"\"trackback\">Trackback URL</a>."
+
+# @ flatsome
+#: image.php:105
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Tackbacks är stängda, men du kan <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">kommentera</a>."
+
+# @ flatsome
+#: image.php:107
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Både kommentarer och trackbacks är stängda."
+
+# @ flatsome
+# @ woocommerce
+#: image.php:114 woocommerce/single-product-reviews.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Föregående"
+
+# @ flatsome
+# @ woocommerce
+#: image.php:115 woocommerce/single-product-reviews.php:60
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nästa <span class=\"meta-nav\">&rarr;</span>"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Någonting gick fel."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla tillägg installerades och aktiverades. %1$s"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:517
+#: inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Tillbaka till dashboard"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Följande tillägg aktiverades: %s."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Stäng notisen"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Extern länk"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Privat repository"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Förpacketerat"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress repository"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Obligatorisk"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Rekommenderad"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Inte installerad"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Installerad men inte aktiverad"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Inga tillägg att installera eller aktivera. <a href=\"%1$s\" title="
+"\"Tillbaka till dashboard\">Tillbaka till dashboard</a>"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Tillägg"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Källa"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Typ"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Status"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Installera"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Aktivera"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Följande tillägg installerades:"
+msgstr[1] "Följande tillägg installerades:"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Installationspaketet är inte tillgängligt"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Ladda ned installationspaket från <span class=\"code\">%s</span>&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Packar upp installationspaketet&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installerar paketet&#8230;"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Installationen av tillägget misslyckades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Installationen av tillägget lyckades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Aktiveringen av tillägget misslyckades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Installations- och aktiveringsprocessen börjar. Denna process kan ta ett tag "
+"beroende på ditt webbhotell, så ha gärna lite tålamod."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installerades och aktiverades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Dölj detaljer"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar har slutförts."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar och aktiverar tilläggen %1$s (%2$d/%3$d)"
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Installationsprocessen börjar. Denna process kan ta ett tag beroende på ditt "
+"webbhotell, så ha gärna lite tålamod."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ett fel uppstod under installationen av %1$s: <strong>%2$s</strong>."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installationen av %1$s misslyckades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "Installationen av %1$s lyckades."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Alla installationer har slutförts."
+
+# @ flatsome
+#: inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerar tillägg %1$s (%2$d/%3$d)"
+
+# @ flatsome
+#: inc/custom-css.php:161
+msgid "New"
+msgstr "Ny"
+
+# @ flatsome
+#: inc/custom-css.php:162
+msgid "Hot"
+msgstr "Het"
+
+# @ flatsome
+#: inc/custom-css.php:163
+msgid "Sale"
+msgstr "Rea"
+
+# @ flatsome
+#: inc/custom-css.php:164
+msgid "Popular"
+msgstr "Populär"
+
+# @ flatsome
+#: inc/extras.php:99
+#, php-format
+msgid "Page %s"
+msgstr "Sida %s"
+
+# @ pippin
+#: inc/extras.php:118
+msgid "Top Content"
+msgstr "Toppinnehåll"
+
+# @ pippin
+#: inc/extras.php:124
+msgid ""
+"Enter a value for this field. Shortcodes are allowed. This will be displayed "
+"at top of the category."
+msgstr ""
+"Fyll i ett värde för detta fält. Shortcodes är tillåtna. Detta kommer att "
+"visas ovanför kategorin."
+
+# @ default
+#: inc/post-types/blocks.php:27
+msgid "Title"
+msgstr "Titel"
+
+# @ default
+#: inc/post-types/blocks.php:28
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ default
+#: inc/post-types/blocks.php:29
+msgid "Date"
+msgstr "Datum"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:21
+msgid "Share on Facebook"
+msgstr "Dela på Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:24
+msgid "Share on Twitter"
+msgstr "Dela på Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:27
+msgid "Email to a Friend"
+msgstr "E-posta till en vän"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:30
+msgid "Pin on Pinterest"
+msgstr "Pinna på Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:33
+msgid "Share on Google+"
+msgstr "Dela på Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:73
+msgid "Follow us on Facebook"
+msgstr "Följ oss på Facebook"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:76
+msgid "Follow us on Twitter"
+msgstr "Följ oss på Twitter"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:79
+msgid "Send us an email"
+msgstr "Skicka oss ett mail"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:82
+msgid "Follow us on Pinterest"
+msgstr "Följ oss på Pinterest"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:85
+msgid "Follow us on Google+"
+msgstr "Följ oss på Google+"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:88
+msgid "Follow us on Instagram"
+msgstr "Följ oss på Instagram"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:91
+msgid "Subscribe to RSS"
+msgstr "Prenumerera på RSS"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:97
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ flatsome
+#: inc/shortcodes/share_follow.php:100
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ flatsome
+#: inc/template-tags.php:49
+msgid "<span class=\"icon-angle-left\"></span> Older posts"
+msgstr "<span class=\"icon-angle-left\"></span> Äldre inlägg"
+
+# @ flatsome
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"icon-angle-right\"></span>"
+msgstr "Nyare inlägg <span class=\"icon-angle-right\"></span>"
+
+# @ flatsome
+#: inc/template-tags.php:77
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ flatsome
+#: inc/template-tags.php:93
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">säger:</span>"
+
+# @ flatsome
+#: inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar väntar på moderering."
+
+# @ flatsome
+#: inc/template-tags.php:104
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klockan %2$s"
+
+# @ flatsome
+#: inc/template-tags.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-author\">by <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong>.</span> Posted on <a href="
+"\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime="
+"\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"meta-author\">av <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong>.</span> Publicerat den <a "
+"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+
+# @ flatsome
+#: inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+# @ woocommerce
+#: inc/template-tags.php:274 woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr "Ta bort denna vara"
+
+# @ woocommerce
+#: inc/template-tags.php:280 woocommerce/cart/cart.php:33
+msgid "Quantity"
+msgstr "Kvantitet"
+
+# @ woocommerce
+#: inc/template-tags.php:296
+msgid "Cart Subtotal"
+msgstr "Subtotal"
+
+# @ woocommerce
+#: inc/template-tags.php:299
+msgid "View Cart"
+msgstr "Visa varukorgen"
+
+# @ woocommerce
+#: inc/template-tags.php:301 woocommerce/cart/cart.php:139
+msgid "Proceed to Checkout"
+msgstr "Gå vidare till kassan"
+
+# @ woocommerce
+#: inc/template-tags.php:343 woocommerce/single-product/review.php:23
+msgid "out of 5"
+msgstr "av 5"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+# @ default
+#: inc/template-tags.php:376
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+# @ default
+#: inc/template-tags.php:423
+#, php-format
+msgid "Use commas instead of %s to separate excluded categories."
+msgstr "Använd komman istället för %s för att separera exkluderade kategorier."
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:17
+msgid "A widget that displays recent posts "
+msgstr "En widget som visar senaste inläggen"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:21
+msgid "Flatsome Recent Posts"
+msgstr "Flatsome senaste inlägg"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:41
+msgid "Recent Posts"
+msgstr "Senaste inlägg"
+
+# @ flatsome
+# @ default
+#: inc/widgets/recent-posts.php:95 inc/widgets/upsell-widget.php:109
+msgid "Title:"
+msgstr "Titel:"
+
+# @ flatsome
+#: inc/widgets/recent-posts.php:98
+msgid "Number of posts to show:"
+msgstr "Antal inlägg att visa:"
+
+# @ text_domain
+#: inc/widgets/upsell-widget.php:20
+msgid "Add upsell products to product page"
+msgstr "Lägg till uppförsäljningsprodukter till produktsidan"
+
+# @ text_domain
+# @ flatsome
+#: inc/widgets/upsell-widget.php:105
+#: woocommerce/single-product/up-sells.php:40
+msgid "Complete the look"
+msgstr "Färdigställ utseendet"
+
+# @ flatsome
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+# @ flatsome
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+# @ flatsome
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Tyvärr matchade ingenting dina söktermer. Vänligen prova igen med några "
+"andra nyckelord."
+
+# @ flatsome
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det verkar inte som att vi kan hitta vad du letar efter. Prova gärna att "
+"söka."
+
+# @ flatsome
+#: page-checkout.php:17 page-checkout.php:28
+msgid "Shopping Cart"
+msgstr "Varukorg"
+
+# @ flatsome
+#: page-checkout.php:19 page-checkout.php:30
+msgid "Checkout details"
+msgstr "Kassadetaljer"
+
+# @ flatsome
+#: page-checkout.php:21 page-checkout.php:32
+msgid "Order Complete"
+msgstr "Order klar"
+
+# @ flatsome
+#: page-my-account.php:30 woocommerce/checkout/form-checkout.php:41
+msgid "Login / Register with <strong>Facebook</strong>"
+msgstr "Logga in / Registrera med <strong>Facebook</strong>"
+
+# @ flatsome
+#: product-searchform.php:17 searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+# @ flatsome
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+# @ yit
+#: wishlist.php:79
+msgid "Product Name"
+msgstr "Produktnamn"
+
+# @ yit
+#: wishlist.php:80
+msgid "Unit Price"
+msgstr "á-pris"
+
+# @ yit
+#: wishlist.php:81
+msgid "Stock Status"
+msgstr "Lagerstatus"
+
+# @ yit
+#: wishlist.php:103
+msgid "Remove this product"
+msgstr "Ta bort produkt"
+
+# @ yit
+#: wishlist.php:121
+msgid "Free!"
+msgstr "Gratis!"
+
+# @ yit
+#: wishlist.php:134
+msgid "Out of Stock"
+msgstr "Ej i lager"
+
+# @ yit
+#: wishlist.php:137
+msgid "In Stock"
+msgstr "I lager"
+
+# @ yit
+#: wishlist.php:155
+msgid "No products were added to the wishlist"
+msgstr "Inga produkter lades till i önskelistan"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:31
+msgid "Product"
+msgstr "Produkt"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:32
+msgid "Price"
+msgstr "Pris"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:34
+msgid "Total"
+msgstr "Total"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr "Tillgänglig för restorder"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:138
+msgid "Update Cart"
+msgstr "Uppdatera varukorgen"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:146
+msgid "Coupon"
+msgstr "Rabattkod"
+
+# @ flatsome
+#: woocommerce/cart/cart.php:147
+msgid "Enter Coupon"
+msgstr "Ange rabattkod"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:148
+msgid "Apply Coupon"
+msgstr "Använd rabattkod"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Beräkna frakt"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr "Välj en region&hellip;"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr "Stat"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr "Välj en stat&hellip;"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "Stad"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr "Postnummer"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr "Uppdatera total"
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Du måste vara inloggad för att handla."
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:37
+msgid "Returning customer?"
+msgstr "Redan kund?"
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:42
+#: woocommerce/checkout/form-checkout.php:44
+msgid "Click here to login"
+msgstr "Klicka här för att logga in"
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:50
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Om du har handlat hos oss tidigare, fyll i din information i rutorna nedan. "
+"Om du är en ny kund, vänligen gå vidare till köp och frakt-sektionen."
+
+# @ woocommerce
+#: woocommerce/checkout/form-checkout.php:89
+msgid "Your order"
+msgstr "Din beställning"
+
+# @ woocommerce
+#: woocommerce/content-product-flipbook.php:40
+#: woocommerce/content-product.php:76 woocommerce/content-product.php:85
+msgid "Read More"
+msgstr "Läs mer"
+
+# @ flatsome
+#: woocommerce/content-product-lookbook.php:25
+#: woocommerce/content-product-pinterest-style.php:32
+#: woocommerce/content-product.php:52
+msgid "Quick View"
+msgstr "Snabbvy"
+
+# @ woocommerce
+#: woocommerce/content-product.php:54
+msgid "Out of stock"
+msgstr "Ej i lager"
+
+# @ woocommerce
+#: woocommerce/content-product.php:68
+msgid "Select options"
+msgstr "Välj alternativ"
+
+# @ woocommerce
+#: woocommerce/content-product.php:72
+msgid "View options"
+msgstr "Visa alternativ"
+
+# @ woocommerce
+#: woocommerce/content-product.php:81
+msgid "Add to cart"
+msgstr "Lägg till i varukorgen"
+
+# @ woocommerce
+#: woocommerce/content-product_cat.php:42
+msgid "Products"
+msgstr "Produkter"
+
+# @ woocommerce
+#: woocommerce/content-single-product-leftcol.php:7
+#: woocommerce/content-single-product-rightcol.php:7
+#: woocommerce/content-single-product.php:18
+msgctxt "slug"
+msgid "product-category"
+msgstr "produktkategori"
+
+# @ flatsome
+#: woocommerce/global/breadcrumb-single-product.php:34
+#: woocommerce/global/breadcrumb.php:34
+msgid "Home"
+msgstr "Hem"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:74
+msgid "Products tagged &ldquo;"
+msgstr "Produkter taggade &ldquo;"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:102 woocommerce/global/breadcrumb.php:199
+msgid "Search results for &ldquo;"
+msgstr "Sökresultat för &ldquo;"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:157
+msgid "Error 404"
+msgstr "Fel 404"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:203
+msgid "Posts tagged &ldquo;"
+msgstr "Inlägg taggade &ldquo;"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:208
+msgid "Author:"
+msgstr "Författare:"
+
+# @ woocommerce
+#: woocommerce/global/breadcrumb.php:213
+msgid "Page"
+msgstr "Sida"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr "Standardsortering"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr "Sortera på popularitet"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr "Sortera på genomsnittligt betyg"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr "Sortera efter senast tillagd"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr "Sortera på pris: lågt till högt"
+
+# @ woocommerce
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr "Sortera på pris: högt till lågt"
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:17
+#: woocommerce/single-product/sale-flash.php:17
+msgid "Sale!"
+msgstr "Rea!"
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:40 woocommerce/loop/sale-flash.php:51
+#: woocommerce/single-product/sale-flash.php:40
+#: woocommerce/single-product/sale-flash.php:51
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr "Användarnamn eller e-post-adress"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:84
+msgid "Password"
+msgstr "Lösenord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr "Glömt lösenord?"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:64
+#: woocommerce/myaccount/form-login.php:96
+msgid "Register"
+msgstr "Registrera"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:72
+msgid "Username"
+msgstr "Användarnamn"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:73
+msgid "username"
+msgstr "användarnamn"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email address"
+msgstr "E-post-adress"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:80
+msgid "email"
+msgstr "e-post"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:85
+msgid "password"
+msgstr "lösenord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:89
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Välj ett alternativ"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Rensa urval"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:104
+msgid "This product is currently out of stock and unavailable."
+msgstr "Denna produkt finns för närvarande inte i lager."
+
+# @ woocommerce
+#: woocommerce/single-product/related.php:34
+msgid "Related Products"
+msgstr "Relaterade produkter"
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:22
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Betyg %d ut av 5"
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr "Din kommentar väntar på godkännande"
+
+# @ woocommerce
+#: woocommerce/single-product/review.php:34
+msgid "verified owner"
+msgstr "verifierad ägare"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+msgid "<strong>%s review</strong> for %s"
+msgid_plural "<strong>%s reviews</strong> for %s"
+msgstr[0] "<strong>%s recension</strong> för %s"
+msgstr[1] "<strong>%s recensioner</strong> för %s"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:34
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr "Recensioner"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:64
+msgid "Add a review"
+msgstr "Skriv en recension"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:68
+msgid "Be the first to review"
+msgstr "Var den första att skriva en recension."
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr "Namn"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:91
+msgid "Email"
+msgstr "E-post"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:94
+msgid "Submit Review"
+msgstr "Skicka recension"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:101
+msgid "Rating"
+msgstr "Betyg"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:102
+msgid "Rate&hellip;"
+msgstr "Betygsätt&hellip;"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:103
+msgid "Perfect"
+msgstr "Perfekt"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:104
+msgid "Good"
+msgstr "Bra"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:105
+msgid "Average"
+msgstr "Medel"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:106
+msgid "Not that bad"
+msgstr "Inte så dålig"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:107
+msgid "Very Poor"
+msgstr "Mycket dålig"
+
+# @ woocommerce
+#: woocommerce/single-product-reviews.php:112
+msgid "Your Review"
+msgstr "Din recension"
