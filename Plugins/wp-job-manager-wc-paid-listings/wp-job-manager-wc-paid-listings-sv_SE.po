@@ -3,18 +3,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Job Manager - WooCommerce Paid Listings 1.1.0\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager-wc-paid-"
-"listings\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager-wc-paid-listings\n"
 "POT-Creation-Date: 2014-05-23 16:32:24+00:00\n"
+"PO-Revision-Date: 2015-01-06 19:51+0100\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-11-22 16:02+0100\n"
-"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
-"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: sv_SE\n"
 
 #: includes/class-wc-product-job-package.php:42
 msgid "Add to cart"
@@ -32,13 +31,11 @@ msgstr "Jobbpaket"
 msgid "Job Package Subscription"
 msgstr "Jobbpaketsprenumeration"
 
-#: includes/class-wp-job-manager-wcpl-cart.php:82
-#: includes/class-wp-job-manager-wcpl-cart.php:98
+#: includes/class-wp-job-manager-wcpl-cart.php:82 includes/class-wp-job-manager-wcpl-cart.php:98
 msgid "Job Listing"
 msgstr "Jobb"
 
-#: includes/class-wp-job-manager-wcpl-forms.php:38
-#: includes/class-wp-job-manager-wcpl-forms.php:72
+#: includes/class-wp-job-manager-wcpl-forms.php:38 includes/class-wp-job-manager-wcpl-forms.php:72
 msgid "Choose a package"
 msgstr "Välj ett paket"
 
@@ -50,8 +47,7 @@ msgstr "Skicka &rarr;"
 msgid "Choose a package &rarr;"
 msgstr "Välj ett paket &rarr;"
 
-#: includes/class-wp-job-manager-wcpl-forms.php:109
-#: includes/class-wp-job-manager-wcpl-forms.php:153
+#: includes/class-wp-job-manager-wcpl-forms.php:109 includes/class-wp-job-manager-wcpl-forms.php:153
 msgid "Invalid Package"
 msgstr "Ogiltigt paket"
 
@@ -64,12 +60,10 @@ msgid "Licence"
 msgstr "Licens"
 
 #: includes/updater/class-wpjm-updater.php:273
-msgid ""
-"Enter your licence key and email and hit return. A valid key is required for "
-"automatic updates."
+msgid "Enter your licence key and email and hit return. A valid key is required for automatic updates."
 msgstr ""
-"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig "
-"licensnyckel krävs för automatiska uppdateringar."
+"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig licensnyckel krävs för automatiska "
+"uppdateringar."
 
 #: includes/views/html-job-package-data.php:3
 msgid "Job listing limit"
@@ -77,11 +71,11 @@ msgstr "Begräsning av antal annonser"
 
 #: includes/views/html-job-package-data.php:3
 msgid ""
-"The number of job listings a user can post with this package. If more than "
-"1, registration will be forced on checkout."
+"The number of job listings a user can post with this package. If more than 1, registration will be forced "
+"on checkout."
 msgstr ""
-"Antalet jobb en användare kan skicka in med detta paket. Om mer än 1 kommer "
-"registrering att krävas i kassan."
+"Antalet jobb en användare kan skicka in med detta paket. Om mer än 1 kommer registrering att krävas i "
+"kassan."
 
 #: includes/views/html-job-package-data.php:8
 msgid "Job listing duration"
@@ -97,8 +91,7 @@ msgstr "Välj ut jobbannonser?"
 
 #: includes/views/html-job-package-data.php:13
 msgid "Feature this job listing - it will be styled differently and sticky."
-msgstr ""
-"Välj ut denna jobbannons—den kommer att vara klistrad och se annorlunda ut."
+msgstr "Välj ut denna jobbannons—den kommer att vara klistrad och se annorlunda ut."
 
 #: templates/my-packages.php:10
 msgid "My job packages"
@@ -181,19 +174,15 @@ msgstr "https://wpjobmanager.com/add-ons/wc-paid-listings/"
 
 #. Description of the plugin/theme
 msgid ""
-"Add paid listing functionality via WooCommerce. Create 'job packages' as "
-"products with their own price, listing duration, listing limit, and job "
-"featured status and either sell them via your store or during the job "
-"submission process. A user's packages are shown on their account page and "
-"can be used to post future jobs if they allow more than 1 job listing. "
-"Requires Job Manager 1.2+"
+"Add paid listing functionality via WooCommerce. Create 'job packages' as products with their own price, "
+"listing duration, listing limit, and job featured status and either sell them via your store or during "
+"the job submission process. A user's packages are shown on their account page and can be used to post "
+"future jobs if they allow more than 1 job listing. Requires Job Manager 1.2+"
 msgstr ""
-"Lägg till möjligheten att betala för att lägga in jobbannonser via "
-"WooCommerce. Skapa 'jobbpaket' som produkter med egna priser, sätt "
-"visningslängder för annonser, och utvalda annonser och sälj dem antingen via "
-"din shop eller direkt när jobb skickas in. En användares paket visas på "
-"deras kontosida och kan användas för att skicka in framtida jobb, om de "
-"tillåter mer än 1 annons. Kräver Job Manager 1.2+."
+"Lägg till möjligheten att betala för att lägga in jobbannonser via WooCommerce. Skapa 'jobbpaket' som "
+"produkter med egna priser, sätt visningslängder för annonser, och utvalda annonser och sälj dem antingen "
+"via din shop eller direkt när jobb skickas in. En användares paket visas på deras kontosida och kan "
+"användas för att skicka in framtida jobb, om de tillåter mer än 1 annons. Kräver Job Manager 1.2+."
 
 #. Author of the plugin/theme
 msgid "Mike Jolley"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Stripe Gateway\n"
+"POT-Creation-Date: 2015-02-07 11:13+0100\n"
+"PO-Revision-Date: 2015-02-07 11:27+0100\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language-Team: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wc-gateway-stripe-addons.php:60
+#: includes/class-wc-gateway-stripe-addons.php:170
+#: includes/class-wc-gateway-stripe.php:384
+msgid ""
+"Please make sure your card details have been entered correctly and that your "
+"browser supports JavaScript."
+msgstr ""
+"Vänligen se till att kortinformationen har fyllts i korrekt och att din "
+"webbläsare stöder JavaScript."
+
+#: includes/class-wc-gateway-stripe-addons.php:63
+#: includes/class-wc-gateway-stripe-addons.php:173
+#: includes/class-wc-gateway-stripe.php:387
+msgid ""
+"Developers: Please make sure that you are including jQuery and there are no "
+"JavaScript errors on the page."
+msgstr ""
+"Utvecklare: Se till att du inkluderar jQuery, och att det inte finns några "
+"JavaScript-fel på sidan."
+
+#: includes/class-wc-gateway-stripe-addons.php:132
+msgid "Error:"
+msgstr "Fel:"
+
+#: includes/class-wc-gateway-stripe-addons.php:159
+#: includes/class-wc-gateway-stripe-addons.php:286
+#: includes/class-wc-gateway-stripe.php:373
+msgid ""
+"Sorry, the minimum allowed order total is 0.50 to use this payment method."
+msgstr ""
+"Tyvärr är minsta ordersumman 0.50 för att använda denna betalningsmetod."
+
+#: includes/class-wc-gateway-stripe-addons.php:283
+#, php-format
+msgid "Subscription for \"%s\""
+msgstr "Prenumeration för \"%s\""
+
+#: includes/class-wc-gateway-stripe-addons.php:283
+#, php-format
+msgid "(Order %s)"
+msgstr "(Order %s)"
+
+#: includes/class-wc-gateway-stripe-addons.php:300
+msgid "Customer not found"
+msgstr "Kunden kunde inte hittas"
+
+#: includes/class-wc-gateway-stripe-addons.php:322
+#, php-format
+msgid "Stripe subscription payment completed (Charge ID: %s)"
+msgstr "Prenumerationsbetalning slutförd via Stripe (Betalnings-ID: %s)"
+
+#: includes/class-wc-gateway-stripe-addons.php:397
+#: includes/class-wc-gateway-stripe-addons.php:402
+#, php-format
+msgid "Via %s card ending in %s"
+msgstr "Genom %s:s kort som slutar med %s"
+
+#: includes/class-wc-gateway-stripe-addons.php:422
+#: includes/class-wc-gateway-stripe.php:422
+#, php-format
+msgid "%s - Order %s"
+msgstr "%s - Order %s"
+
+#: includes/class-wc-gateway-stripe-addons.php:454
+#: includes/class-wc-gateway-stripe.php:454 woocommerce-gateway-stripe.php:126
+#, php-format
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr "Stripebetalning slutförd (ID: %s)"
+
+#: includes/class-wc-gateway-stripe-addons.php:463
+#: includes/class-wc-gateway-stripe.php:463
+#, php-format
+msgid ""
+"Stripe charge authorized (Charge ID: %s). Process order to take payment, or "
+"cancel to remove the pre-authorization."
+msgstr ""
+"Stripebetalning auktoriserad (ID: %s). Processa ordern för att ta betalt, "
+"eller avsluta för att ta bort auktoriseringen."
+
+#: includes/class-wc-gateway-stripe-addons.php:467
+#, php-format
+msgid "Stripe Transaction Failed (%s)"
+msgstr "Stripetransaktionen misslyckades (%s)"
+
+#: includes/class-wc-gateway-stripe-saved-cards.php:42
+msgid "Unable to verify deletion, please try again"
+msgstr "Det gick inte att verifiera borttagandet. Vänligen försök igen."
+
+#: includes/class-wc-gateway-stripe-saved-cards.php:50
+msgid "Unable to delete card."
+msgstr "Det gick inte att ta bort kortet."
+
+#: includes/class-wc-gateway-stripe-saved-cards.php:52
+msgid "Card deleted."
+msgstr "Kortet borttaget."
+
+#: includes/class-wc-gateway-stripe.php:18
+msgid "Stripe"
+msgstr "Stripe"
+
+#: includes/class-wc-gateway-stripe.php:19
+msgid ""
+"Stripe works by adding credit card fields on the checkout and then sending "
+"the details to Stripe for verification."
+msgstr ""
+"Stripe fungerar genom att lägga till kreditkortsfält i kassan för att sedan "
+"skicka uppgifterna till Stripe för verifiering."
+
+#: includes/class-wc-gateway-stripe.php:59
+msgid "Continue to payment"
+msgstr "Fortsätt till betalning"
+
+#: includes/class-wc-gateway-stripe.php:63
+msgid ""
+"TEST MODE ENABLED. In test mode, you can use the card number "
+"4242424242424242 with any CVC and a valid expiration date."
+msgstr ""
+"TESTLÄGE AKTIVERAT. I testläget kan du använda kortnumret 4242424242424242 "
+"tillsammans med valfritt CVC och ett giltigt utgångsdatum."
+
+#: includes/class-wc-gateway-stripe.php:114
+#, php-format
+msgid "Stripe error: Please enter your secret key <a href=\"%s\">here</a>"
+msgstr "Stripefel: Vänligen fyll i din \"secret key\" <a href=\"%s\">här</a>"
+
+#: includes/class-wc-gateway-stripe.php:118
+#, php-format
+msgid "Stripe error: Please enter your publishable key <a href=\"%s\">here</a>"
+msgstr ""
+"Stripefel: Vänligen fyll i din \"publishable key\" <a href=\"%s\">här</a>"
+
+#: includes/class-wc-gateway-stripe.php:124
+msgid ""
+"Stripe error: Your secret and publishable keys match. Please check and re-"
+"enter."
+msgstr ""
+"Stripefel: Dina nycklar \"secret\" och \"publishable\" matchar. Vänligen "
+"kontrollera och fyll i på nytt."
+
+#: includes/class-wc-gateway-stripe.php:130
+#, php-format
+msgid ""
+"Stripe is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; "
+"your checkout may not be secure! Please enable SSL and ensure your server "
+"has a valid SSL certificate - Stripe will only work in test mode."
+msgstr ""
+"Stripe är aktiverat men <a href=\"%s\">tvinga SSL-alternativet</a> är "
+"deaktiverat och din kassa kanske inte är säker! Vänligen aktivera SSL och se "
+"till att din server har ett giltigt SSL-certifikat. Stripe fungerar tills "
+"dess enbart i testläge."
+
+#: includes/class-wc-gateway-stripe.php:157
+msgid "Enable/Disable"
+msgstr "Aktivera/Deaktivera"
+
+#: includes/class-wc-gateway-stripe.php:158
+msgid "Enable Stripe"
+msgstr "Aktivera Stripe"
+
+#: includes/class-wc-gateway-stripe.php:164
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-wc-gateway-stripe.php:166
+msgid "This controls the title which the user sees during checkout."
+msgstr "Detta kontrollerar titeln som användaren ser i kassan."
+
+#: includes/class-wc-gateway-stripe.php:167
+msgid "Credit card (Stripe)"
+msgstr "Kreditkort (Stripe)"
+
+#: includes/class-wc-gateway-stripe.php:170
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/class-wc-gateway-stripe.php:172
+msgid "This controls the description which the user sees during checkout."
+msgstr "Detta kontrollerar beskrivningen som användaren ser i kassan."
+
+#: includes/class-wc-gateway-stripe.php:173
+msgid "Pay with your credit card via Stripe."
+msgstr "Betala med ditt kreditkort genom Stripe."
+
+#: includes/class-wc-gateway-stripe.php:176
+msgid "Test mode"
+msgstr "Testläge"
+
+#: includes/class-wc-gateway-stripe.php:177
+msgid "Enable Test Mode"
+msgstr "Aktivera testläge"
+
+#: includes/class-wc-gateway-stripe.php:179
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "Sätt betalningsmetoden i testläge genom att använda test-API-nycklar."
+
+#: includes/class-wc-gateway-stripe.php:183
+msgid "Live Secret Key"
+msgstr "Live Secret Key"
+
+#: includes/class-wc-gateway-stripe.php:185
+#: includes/class-wc-gateway-stripe.php:191
+#: includes/class-wc-gateway-stripe.php:197
+#: includes/class-wc-gateway-stripe.php:203
+msgid "Get your API keys from your stripe account."
+msgstr "Hämta dina API-nycklar från ditt Stripe-konto."
+
+#: includes/class-wc-gateway-stripe.php:189
+msgid "Live Publishable Key"
+msgstr "Live Publishable Key"
+
+#: includes/class-wc-gateway-stripe.php:195
+msgid "Test Secret Key"
+msgstr "Test Secret Key"
+
+#: includes/class-wc-gateway-stripe.php:201
+msgid "Test Publishable Key"
+msgstr "Test Publishable Key"
+
+#: includes/class-wc-gateway-stripe.php:207
+msgid "Capture"
+msgstr "Capture"
+
+#: includes/class-wc-gateway-stripe.php:208
+msgid "Capture charge immediately"
+msgstr "Dra betalning omedelbart"
+
+#: includes/class-wc-gateway-stripe.php:210
+msgid ""
+"Whether or not to immediately capture the charge. When unchecked, the charge "
+"issues an authorization and will need to be captured later. Uncaptured "
+"charges expire in 7 days."
+msgstr ""
+"Bestämmer huruvida betalningen dras omedelbart. När alternativet inte är "
+"ikryssat auktoriseras beloppet och behöver dras senare. Ogenomförda "
+"betalningar går ut inom 7 dagar."
+
+#: includes/class-wc-gateway-stripe.php:214
+msgid "Stripe Checkout"
+msgstr "Stripe-kassa"
+
+#: includes/class-wc-gateway-stripe.php:215
+msgid "Enable Stripe Checkout"
+msgstr "Aktivera Stripe-kassan"
+
+#: includes/class-wc-gateway-stripe.php:217
+msgid ""
+"If enabled, this option shows a \"pay\" button and modal credit card form on "
+"the checkout, instead of credit card fields directly on the page."
+msgstr ""
+"Om aktiverat kommer detta alternativ visa en betalningsknapp och ett modalt "
+"kreditkortsformulär i kassan istället för att visa fälten direkt på sidan."
+
+#: includes/class-wc-gateway-stripe.php:221
+msgid "Stripe Checkout Image"
+msgstr "Stripe-kassans bild"
+
+#: includes/class-wc-gateway-stripe.php:222
+msgid ""
+"Optionally enter the URL to a 128x128px image of your brand or product. e.g. "
+"<code>https://yoursite.com/wp-content/uploads/2013/09/yourimage.jpg</code>"
+msgstr ""
+"Fyll i en valfri URL till en bild på ditt varumärke eller produkt i "
+"storleken 128x128px. t ex <code>https://yoursite.com/wp-content/"
+"uploads/2013/09/yourimage.jpg</code>"
+
+#: includes/class-wc-gateway-stripe.php:227 templates/saved-cards.php:1
+msgid "Saved cards"
+msgstr "Sparade kort"
+
+#: includes/class-wc-gateway-stripe.php:228
+msgid "Enable saved cards"
+msgstr "Aktivera sparade kort"
+
+#: includes/class-wc-gateway-stripe.php:230
+msgid ""
+"If enabled, users will be able to pay with a saved card during checkout. "
+"Card details are saved on Stripe servers, not on your store."
+msgstr ""
+"Om aktiverat kommer användare kunna betala med ett sparat kort i kassan. "
+"Kortuppgifter sparas på Stripes servrar och inte i din butik."
+
+#: includes/class-wc-gateway-stripe.php:250
+msgid "Manage cards"
+msgstr "Hantera kort"
+
+#: includes/class-wc-gateway-stripe.php:255
+#, php-format
+msgid "%s card ending in %s (Expires %s/%s)"
+msgstr "%s kort som slutar med %s (Går ut %s/%s)"
+
+#: includes/class-wc-gateway-stripe.php:261
+msgid "Use a new credit card"
+msgstr "Använd ett nytt kort"
+
+#: includes/class-wc-gateway-stripe.php:270
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/class-wc-gateway-stripe.php:271
+msgid "Confirm and Pay"
+msgstr "Bekräfta och betala"
+
+#: includes/class-wc-gateway-stripe.php:329
+msgid "Please accept the terms and conditions first"
+msgstr "Vänligen acceptera villkoren först"
+
+#: includes/class-wc-gateway-stripe.php:330
+msgid "Please fill in required checkout fields first"
+msgstr "Vänligen fyll i alla obligatoriska fält först"
+
+#: includes/class-wc-gateway-stripe.php:508
+#, php-format
+msgid "Refunded %s - Refund ID: %s"
+msgstr "Återbetalade %s - Återbetalnings-ID: %s"
+
+#: includes/class-wc-gateway-stripe.php:541
+msgid "Unable to add customer"
+msgstr "Kunden kunde inte läggas till"
+
+#: includes/class-wc-gateway-stripe.php:565
+msgid "Unable to add card"
+msgstr "Kortet kunde inte läggas till"
+
+#: includes/class-wc-gateway-stripe.php:591
+msgid "There was a problem connecting to the payment gateway."
+msgstr "Ett problem uppstod vid anslutningen till betalningsmetoden."
+
+#: includes/class-wc-gateway-stripe.php:595
+msgid "Empty response."
+msgstr "Tomt svar."
+
+#: templates/saved-cards.php:5
+msgid "Card"
+msgstr "Kort"
+
+#: templates/saved-cards.php:6
+msgid "Expires"
+msgstr "Går ut"
+
+#: templates/saved-cards.php:13
+#, php-format
+msgid "%s card ending in %s"
+msgstr "%s:s kort som slutar med %s"
+
+#: templates/saved-cards.php:14
+#, php-format
+msgid "Expires %s/%s"
+msgstr "Går ut %s/%s"
+
+#: templates/saved-cards.php:19
+msgid "Delete card"
+msgstr "Ta bort kort"
+
+#: woocommerce-gateway-stripe.php:64
+msgid "Settings"
+msgstr "Inställningar"
+
+#: woocommerce-gateway-stripe.php:65
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-gateway-stripe.php:66
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: woocommerce-gateway-stripe.php:124
+msgid "Unable to capture charge!"
+msgstr "Kunde inte dra betalningen!"
+
+#: woocommerce-gateway-stripe.php:157
+msgid "Unable to refund charge!"
+msgstr "Kunde inte utföra återbetalning!"
+
+#: woocommerce-gateway-stripe.php:159
+#, php-format
+msgid "Stripe charge refunded (Charge ID: %s)"
+msgstr "Stripe-avgift återbetalad (ID: %s)"

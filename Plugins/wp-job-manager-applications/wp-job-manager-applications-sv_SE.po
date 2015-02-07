@@ -4,16 +4,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WP Job Manager - Applications 1.4.4\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager-applications\n"
-"POT-Creation-Date: 2014-11-11 21:59:57+00:00\n"
+"POT-Creation-Date: 2014-12-18 18:36:04+00:00\n"
+"PO-Revision-Date: 2015-01-06 19:46+0100\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-11-22 15:18+0100\n"
-"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
-"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: sv_SE\n"
 
 #: includes/class-wp-job-manager-applications-admin.php:55
 #: includes/class-wp-job-manager-applications-dashboard.php:265
@@ -165,29 +165,29 @@ msgstr "Inget"
 msgid "Invalid job"
 msgstr "Ogiltigt jobb"
 
-#: includes/class-wp-job-manager-applications-apply.php:200
+#: includes/class-wp-job-manager-applications-apply.php:203
 msgid "\"%s\" is a required field"
 msgstr "\"%s\" är ett obligatoriskt fält"
 
-#: includes/class-wp-job-manager-applications-apply.php:212
+#: includes/class-wp-job-manager-applications-apply.php:215
 msgid "Please provide a valid email address"
 msgstr "Vänligen fyll i en giltig e-postadress"
 
-#: includes/class-wp-job-manager-applications-apply.php:242
+#: includes/class-wp-job-manager-applications-apply.php:245
 msgid "Could not create job application"
 msgstr "Kunde inte skapa jobbansökan"
 
-#: includes/class-wp-job-manager-applications-apply.php:246
+#: includes/class-wp-job-manager-applications-apply.php:249
 msgid "Your job application has been submitted successfully"
 msgstr "Din jobbansökan har skickats in"
 
-#: includes/class-wp-job-manager-applications-apply.php:281
-#: includes/class-wp-job-manager-applications-apply.php:307
+#: includes/class-wp-job-manager-applications-apply.php:284
+#: includes/class-wp-job-manager-applications-apply.php:310
 msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
 msgstr "\"%s\" (filtyp %s) behöver vara en av följande filtyper: %s"
 
 #: includes/class-wp-job-manager-applications-dashboard.php:45
-#: includes/class-wp-job-manager-applications-post-types.php:38
+#: includes/class-wp-job-manager-applications-post-types.php:37
 msgid "Job Applications"
 msgstr "Jobbansökan"
 
@@ -253,122 +253,134 @@ msgstr "Datum mottaget"
 msgid "Delete note"
 msgstr "Ta bort notering"
 
-#: includes/class-wp-job-manager-applications-integration.php:39
+#: includes/class-wp-job-manager-applications-integration.php:44
+#: includes/class-wp-job-manager-applications-integration.php:123
 msgid "Title"
 msgstr "Titel"
 
-#: includes/class-wp-job-manager-applications-integration.php:43
+#: includes/class-wp-job-manager-applications-integration.php:48
+#: includes/class-wp-job-manager-applications-integration.php:92
+#: includes/class-wp-job-manager-applications-integration.php:124
 msgid "Location"
 msgstr "Plats"
 
-#: includes/class-wp-job-manager-applications-integration.php:44
+#: includes/class-wp-job-manager-applications-integration.php:49
+#: includes/class-wp-job-manager-applications-integration.php:93
 msgid "Full Profile"
 msgstr "Full profil"
 
-#: includes/class-wp-job-manager-applications-post-types.php:39
+#: includes/class-wp-job-manager-applications-integration.php:71
+msgid "Skills"
+msgstr "Färdigheter"
+
+#: includes/class-wp-job-manager-applications-integration.php:74
+msgid "Unknown location"
+msgstr "Okänd plats"
+
+#: includes/class-wp-job-manager-applications-post-types.php:38
 msgid "Application"
 msgstr "Ansökan"
 
-#: includes/class-wp-job-manager-applications-post-types.php:47
+#: includes/class-wp-job-manager-applications-post-types.php:46
 msgid "All %s"
 msgstr "Alla %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:48
+#: includes/class-wp-job-manager-applications-post-types.php:47
 msgid "Add New"
 msgstr "Lägg till"
 
-#: includes/class-wp-job-manager-applications-post-types.php:49
+#: includes/class-wp-job-manager-applications-post-types.php:48
 msgid "Add %s"
 msgstr "Lägg till %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:50
+#: includes/class-wp-job-manager-applications-post-types.php:49
 #: templates/job-application-footer.php:7
 msgid "Edit"
 msgstr "Redigera"
 
-#: includes/class-wp-job-manager-applications-post-types.php:51
+#: includes/class-wp-job-manager-applications-post-types.php:50
 msgid "Edit %s"
 msgstr "Redigera %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:52
+#: includes/class-wp-job-manager-applications-post-types.php:51
 msgid "New %s"
 msgstr "Ny %s"
 
+#: includes/class-wp-job-manager-applications-post-types.php:52
 #: includes/class-wp-job-manager-applications-post-types.php:53
-#: includes/class-wp-job-manager-applications-post-types.php:54
 msgid "View %s"
 msgstr "Visa %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:55
+#: includes/class-wp-job-manager-applications-post-types.php:54
 msgid "Search %s"
 msgstr "Sök %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:56
+#: includes/class-wp-job-manager-applications-post-types.php:55
 msgid "No %s found"
 msgstr "Inga %s funna"
 
-#: includes/class-wp-job-manager-applications-post-types.php:57
+#: includes/class-wp-job-manager-applications-post-types.php:56
 msgid "No %s found in trash"
 msgstr "Inga %s funna i papperskorgen"
 
-#: includes/class-wp-job-manager-applications-post-types.php:58
+#: includes/class-wp-job-manager-applications-post-types.php:57
 msgid "Parent %s"
 msgstr "Överliggande %s"
 
-#: includes/class-wp-job-manager-applications-post-types.php:72
+#: includes/class-wp-job-manager-applications-post-types.php:59
 msgid "This is where you can edit and view applications."
 msgstr "Här hanterar du och visar ansökningar."
 
-#: includes/class-wp-job-manager-applications-post-types.php:91
+#: includes/class-wp-job-manager-applications-post-types.php:79
 msgctxt "job_application"
 msgid "New"
 msgstr "Ny"
 
-#: includes/class-wp-job-manager-applications-post-types.php:96
+#: includes/class-wp-job-manager-applications-post-types.php:84
 msgid "New <span class=\"count\">(%s)</span>"
 msgid_plural "New <span class=\"count\">(%s)</span>"
 msgstr[0] "Ny <span class=\"count\">(%s)</span>"
 msgstr[1] "Nya <span class=\"count\">(%s)</span>"
 
-#: includes/class-wp-job-manager-applications-post-types.php:99
+#: includes/class-wp-job-manager-applications-post-types.php:87
 msgctxt "job_application"
 msgid "Interviewed"
 msgstr "Intervjuad"
 
-#: includes/class-wp-job-manager-applications-post-types.php:104
+#: includes/class-wp-job-manager-applications-post-types.php:92
 msgid "Interviewed <span class=\"count\">(%s)</span>"
 msgid_plural "Interviewed <span class=\"count\">(%s)</span>"
 msgstr[0] "Intervjuad <span class=\"count\">(%s)</span>"
 msgstr[1] "Intervjuade <span class=\"count\">(%s)</span>"
 
-#: includes/class-wp-job-manager-applications-post-types.php:107
+#: includes/class-wp-job-manager-applications-post-types.php:95
 msgctxt "job_application"
 msgid "Offer extended"
 msgstr "Erbjudande förlängt"
 
-#: includes/class-wp-job-manager-applications-post-types.php:112
+#: includes/class-wp-job-manager-applications-post-types.php:100
 msgid "Offer extended <span class=\"count\">(%s)</span>"
 msgid_plural "Offer extended <span class=\"count\">(%s)</span>"
 msgstr[0] "Erbjudande förlängt <span class=\"count\">(%s)</span>"
 msgstr[1] "Erbjudande förlängda <span class=\"count\">(%s)</span>"
 
-#: includes/class-wp-job-manager-applications-post-types.php:115
+#: includes/class-wp-job-manager-applications-post-types.php:103
 msgctxt "job_application"
 msgid "Hired"
 msgstr "Anställd"
 
-#: includes/class-wp-job-manager-applications-post-types.php:120
+#: includes/class-wp-job-manager-applications-post-types.php:108
 msgid "Hired <span class=\"count\">(%s)</span>"
 msgid_plural "Hired <span class=\"count\">(%s)</span>"
 msgstr[0] "Anställd <span class=\"count\">(%s)</span>"
 msgstr[1] "Anställda <span class=\"count\">(%s)</span>"
 
-#: includes/class-wp-job-manager-applications-post-types.php:123
+#: includes/class-wp-job-manager-applications-post-types.php:111
 msgctxt "job_application"
 msgid "Archived"
 msgstr "Arkiverad"
 
-#: includes/class-wp-job-manager-applications-post-types.php:128
+#: includes/class-wp-job-manager-applications-post-types.php:116
 msgid "Archived <span class=\"count\">(%s)</span>"
 msgid_plural "Archived <span class=\"count\">(%s)</span>"
 msgstr[0] "Arkiverad <span class=\"count\">(%s)</span>"
@@ -407,48 +419,55 @@ msgstr "Jobbansökans data"
 msgid "Application Notes"
 msgstr "Noteringar för ansökan"
 
-#: includes/updater/class-wpjm-updater.php:247
-msgid "Hide notice"
-msgstr "Dölj noteringar"
-
-#: includes/updater/class-wpjm-updater.php:286
+#: includes/updater/views/html-key-input.php:4
 msgid "Licence"
 msgstr "Licens"
 
-#: includes/updater/class-wpjm-updater.php:289
+#: includes/updater/views/html-key-input.php:7
 msgid ""
-"Enter your licence key and email and hit return. A valid key is required for "
-"automatic updates."
+"Enter your licence key and email and hit return. A valid key is required for automatic "
+"updates."
 msgstr ""
-"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig "
-"licensnyckel krävs för automatiska uppdateringar."
+"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig licensnyckel krävs för "
+"automatiska uppdateringar."
 
-#: includes/wp-job-manager-applications-functions.php:66
+#: includes/updater/views/html-key-notice.php:2
+msgid "Hide notice"
+msgstr "Dölj noteringar"
+
+#: includes/updater/views/html-ms-update.php:6
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s"
+"\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr ""
+"Det finns en ny version av %1$s tillgänglig. <a target=\"_blank\" class=\"thickbox\" href="
+"\"%2$s\">Visa information om version %3$s </a> eller <a href=\"%4$s\">uppdatera nu</a>."
+
+#: includes/wp-job-manager-applications-functions.php:74
+msgid "The candidate's CV/resume is attached to this email."
+msgstr "﻿Kandidatens CV/meritförteckning bifogas detta mail."
+
+#: includes/wp-job-manager-applications-functions.php:80
 msgid "Hello"
 msgstr "Hej"
 
-#: includes/wp-job-manager-applications-functions.php:67
-msgid ""
-"A candidate (%s) has submitted their application for the position \"%s\"."
+#: includes/wp-job-manager-applications-functions.php:81
+msgid "A candidate (%s) has submitted their application for the position \"%s\"."
 msgstr "En kandidat (%s) har skickat in en ansökan för tjänsten \"%s\"."
 
-#: includes/wp-job-manager-applications-functions.php:72
+#: includes/wp-job-manager-applications-functions.php:86
 msgid "You can view this and any other applications here: %s."
 msgstr "Du kan se denna och alla andra ansökningar här: %s."
 
-#: includes/wp-job-manager-applications-functions.php:72
+#: includes/wp-job-manager-applications-functions.php:86
 msgid "You can view the applications from your dashboard."
 msgstr "Du kan se alla ansökningar från din översikt."
 
-#: includes/wp-job-manager-applications-functions.php:73
+#: includes/wp-job-manager-applications-functions.php:87
 msgid "You can contact them directly at: %s."
 msgstr "Du kan kontakta dem direkt på: %s."
 
-#: includes/wp-job-manager-applications-functions.php:90
-msgid "Their CV/resume is attached to this email."
-msgstr "Deras CV är bifogat till detta mail."
-
-#: includes/wp-job-manager-applications-functions.php:93
+#: includes/wp-job-manager-applications-functions.php:96
 msgid "New job application for %s"
 msgstr "Ny jobbansökan för %s"
 
@@ -532,77 +551,73 @@ msgstr "Sortera efter namn"
 msgid "Sort by rating"
 msgstr "Sortera efter ranking"
 
-#: wp-job-manager-applications.php:71
+#: wp-job-manager-applications.php:72
 msgid "Applications requies WP Job Manager 1.14.0 and above; you are using %s"
 msgstr "Ansökningar kräver WP Job Manager 1.14.0 eller senare. Du använder %s"
 
-#: wp-job-manager-applications.php:126
+#: wp-job-manager-applications.php:183
 msgid "Job Application"
 msgstr "Jobbansökan"
 
-#: wp-job-manager-applications.php:133
+#: wp-job-manager-applications.php:190
 msgid "Email Application method"
 msgstr "Ansökningsmetod: E-post"
 
-#: wp-job-manager-applications.php:134 wp-job-manager-applications.php:142
+#: wp-job-manager-applications.php:191 wp-job-manager-applications.php:199
 msgid "Use application form"
 msgstr "Använd ansökningsformulär"
 
-#: wp-job-manager-applications.php:135
+#: wp-job-manager-applications.php:192
 msgid ""
-"Show application form for jobs with an email application method. Disable to "
-"use the default application functionality, or another form plugin."
+"Show application form for jobs with an email application method. Disable to use the default "
+"application functionality, or another form plugin."
 msgstr ""
-"Visa ansökningsformuläret för alla jobb med e-post som ansökningsmetod. "
-"Deaktivera för att använda standardförfarandet för ansökan eller ett annat "
-"formulärtillägg."
+"Visa ansökningsformuläret för alla jobb med e-post som ansökningsmetod. Deaktivera för att "
+"använda standardförfarandet för ansökan eller ett annat formulärtillägg."
 
-#: wp-job-manager-applications.php:141
+#: wp-job-manager-applications.php:198
 msgid "Website URL Application method"
 msgstr "Ansökningsmetod: Webbplatslänk"
 
-#: wp-job-manager-applications.php:143
+#: wp-job-manager-applications.php:200
 msgid ""
-"Show application form for jobs with a website url application method. "
-"Disable to use the default application functionality, or another form plugin."
+"Show application form for jobs with a website url application method. Disable to use the "
+"default application functionality, or another form plugin."
 msgstr ""
-"Visa ett ansökningsformulär för jobb med en webbplatslänk som "
-"ansökningsmetod. Deaktivera för att använda standardfunktionen eller ett "
-"annat formulärtillägg."
+"Visa ett ansökningsformulär för jobb med en webbplatslänk som ansökningsmetod. Deaktivera "
+"för att använda standardfunktionen eller ett annat formulärtillägg."
 
-#: wp-job-manager-applications.php:149
+#: wp-job-manager-applications.php:206
 msgid "User restriction"
 msgstr "Användarbegränsning"
 
-#: wp-job-manager-applications.php:150
+#: wp-job-manager-applications.php:207
 msgid "Only allow registered users to apply"
 msgstr "Tillåt enbart registrerade användare att ansöka"
 
-#: wp-job-manager-applications.php:151
+#: wp-job-manager-applications.php:208
 msgid ""
-"If enabled, only logged in users can apply. Non-logged in users will see the "
-"contents of the <code>application-form-login.php</code> file instead of a "
-"form."
+"If enabled, only logged in users can apply. Non-logged in users will see the contents of the "
+"<code>application-form-login.php</code> file instead of a form."
 msgstr ""
-"Om aktiverat kan enbart inloggade användare ansöka. Icke inloggade användare "
-"kommer se innehållet i filen <code>application-form-login.php</code> "
-"istället för ett formulär."
+"Om aktiverat kan enbart inloggade användare ansöka. Icke inloggade användare kommer se "
+"innehållet i filen <code>application-form-login.php</code> istället för ett formulär."
 
-#: wp-job-manager-applications.php:157
+#: wp-job-manager-applications.php:214
 msgid "Delete applications"
 msgstr "Ta bort ansökningar"
 
-#: wp-job-manager-applications.php:158
+#: wp-job-manager-applications.php:215
 msgid "Delete applications when a job is deleted"
 msgstr "Ta bort ansökningar när ett jobb tas bort"
 
-#: wp-job-manager-applications.php:159
+#: wp-job-manager-applications.php:216
 msgid ""
-"If enabled, job applications will be deleted when the parent job listing is "
-"deleted. Otherwise they will be kept on file and visible in the backend."
+"If enabled, job applications will be deleted when the parent job listing is deleted. "
+"Otherwise they will be kept on file and visible in the backend."
 msgstr ""
-"Om aktiverat så kommer jobbansökningar att tas bort när deras tillhörande "
-"jobb tas bort. Annars kommer de att sparas och vara synliga i adminpanelen."
+"Om aktiverat så kommer jobbansökningar att tas bort när deras tillhörande jobb tas bort. "
+"Annars kommer de att sparas och vara synliga i adminpanelen."
 
 #. Plugin Name of the plugin/theme
 msgid "WP Job Manager - Applications"
@@ -614,13 +629,11 @@ msgstr "https://wpjobmanager.com/add-ons/applications/"
 
 #. Description of the plugin/theme
 msgid ""
-"Lets candidates submit applications to jobs which are stored on the "
-"employers jobs page, rather than simply emailed. Works standalone with it's "
-"built in application form."
+"Lets candidates submit applications to jobs which are stored on the employers jobs page, "
+"rather than simply emailed. Works standalone with it's built in application form."
 msgstr ""
-"Låter kandidater skicka in ansökningar för jobb som lagras på arbetsgivarens "
-"jobbsida istället för att bara mailas. Fungerar självständigt med sitt "
-"inbyggda ansökningsformulär."
+"Låter kandidater skicka in ansökningar för jobb som lagras på arbetsgivarens jobbsida "
+"istället för att bara mailas. Fungerar självständigt med sitt inbyggda ansökningsformulär."
 
 #. Author of the plugin/theme
 msgid "Mike Jolley"

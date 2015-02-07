@@ -3,18 +3,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Job Manager - Apply with LinkedIn 2.0.0\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager-apply-with-"
-"linkedin\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager-apply-with-linkedin\n"
 "POT-Creation-Date: 2014-07-22 19:18:50+00:00\n"
+"PO-Revision-Date: 2015-01-06 19:46+0100\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-11-22 12:37+0100\n"
-"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
-"Language-Team: Bernskiold Media <info@bernskioldmedia.com>\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: sv_SE\n"
 
 #: includes/updater/class-wpjm-updater.php:270
 msgid "Licence"
@@ -22,11 +21,10 @@ msgstr "Licens"
 
 #: includes/updater/class-wpjm-updater.php:273
 msgid ""
-"Enter your licence key and email and hit return. A valid key is required for "
-"automatic updates."
+"Enter your licence key and email and hit return. A valid key is required for automatic updates."
 msgstr ""
-"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig "
-"licensnyckel krävs för automatiska uppdateringar."
+"Fyll i din licensnyckel och e-post-adress och tryck enter. En giltig licensnyckel krävs för "
+"automatiska uppdateringar."
 
 #: templates/apply-with-linkedin-email.php:2
 msgid "Dear %s"
@@ -36,18 +34,15 @@ msgstr "Hej %s"
 msgid "%s has applied for the job of %s. See below for %s's profile snapshot."
 msgstr "%s har ansökt om jobbet som %s. Se nedan för ett utdrag ur %s profil."
 
-#: templates/apply-with-linkedin-email.php:18
-#: templates/apply-with-linkedin-form.php:12
+#: templates/apply-with-linkedin-email.php:18 templates/apply-with-linkedin-form.php:12
 msgid "Current"
 msgstr "Nuvarande"
 
-#: templates/apply-with-linkedin-email.php:32
-#: templates/apply-with-linkedin-form.php:15
+#: templates/apply-with-linkedin-email.php:32 templates/apply-with-linkedin-form.php:15
 msgid "Past"
 msgstr "Tidigare"
 
-#: templates/apply-with-linkedin-email.php:46
-#: templates/apply-with-linkedin-form.php:18
+#: templates/apply-with-linkedin-email.php:46 templates/apply-with-linkedin-form.php:18
 msgid "Education"
 msgstr "Utbildning"
 
@@ -55,8 +50,7 @@ msgstr "Utbildning"
 msgid "Email address"
 msgstr "E-postadress"
 
-#: templates/apply-with-linkedin-email.php:65
-#: templates/apply-with-linkedin-form.php:25
+#: templates/apply-with-linkedin-email.php:65 templates/apply-with-linkedin-form.php:25
 msgid "Cover letter"
 msgstr "Personligt brev"
 
@@ -80,14 +74,13 @@ msgstr "Hej,"
 #: templates/apply-with-linkedin-form.php:30
 msgctxt "default cover letter"
 msgid ""
-"I am very interested in the %s position at %s. I believe my skills and work "
-"experience make me an ideal candidate for this role. I look forward to "
-"speaking with you soon about this position. Thank you for your consideration."
+"I am very interested in the %s position at %s. I believe my skills and work experience make me an "
+"ideal candidate for this role. I look forward to speaking with you soon about this position. Thank "
+"you for your consideration."
 msgstr ""
-"Jag är mycket intresserad av tjänsten %s hos %s. Jag tror att mina "
-"färdigheter och min arbetslivserfarenhet gör mig till en mycket lämplig "
-"kandidat för denna tjänst. Jag ser fram emot att höras så snart som möjligt. "
-"Tack på förhand."
+"Jag är mycket intresserad av tjänsten %s hos %s. Jag tror att mina färdigheter och min "
+"arbetslivserfarenhet gör mig till en mycket lämplig kandidat för denna tjänst. Jag ser fram emot "
+"att höras så snart som möjligt. Tack på förhand."
 
 #: templates/apply-with-linkedin-form.php:33
 msgctxt "default cover letter"
@@ -100,11 +93,9 @@ msgstr "Skicka ansökan"
 
 #: templates/apply-with-linkedin-form.php:39
 msgid "Clicking submit will submit your full profile to %s."
-msgstr ""
-"Genom att klicka på skicka in kommer din fulla profil att skickas till %s."
+msgstr "Genom att klicka på skicka in kommer din fulla profil att skickas till %s."
 
-#: templates/apply-with-linkedin.php:1
-#: wp-job-manager-apply-with-linkedin.php:83
+#: templates/apply-with-linkedin.php:1 wp-job-manager-apply-with-linkedin.php:83
 msgid "Apply with LinkedIn"
 msgstr "Ansök med LinkedIn"
 
@@ -113,24 +104,19 @@ msgid "API Key"
 msgstr "API-nyckel"
 
 #: wp-job-manager-apply-with-linkedin.php:91
-msgid ""
-"Get your API key by creating a new application on https://www.linkedin.com/"
-"secure/developer"
+msgid "Get your API key by creating a new application on https://www.linkedin.com/secure/developer"
 msgstr ""
-"Hämta din API-nyckel genom att skapa en ny applikation på https://www."
-"linkedin.com/secure/developer"
+"Hämta din API-nyckel genom att skapa en ny applikation på https://www.linkedin.com/secure/developer"
 
 #: wp-job-manager-apply-with-linkedin.php:97
 msgid "Secret Key"
 msgstr "Säkerhetsnyckel"
 
 #: wp-job-manager-apply-with-linkedin.php:98
-msgid ""
-"Get your secret key by creating a new application on https://www.linkedin."
-"com/secure/developer"
+msgid "Get your secret key by creating a new application on https://www.linkedin.com/secure/developer"
 msgstr ""
-"Hämta din säkerhetsnyckel genom att skapa en ny applikation på https://www."
-"linkedin.com/secure/developer"
+"Hämta din säkerhetsnyckel genom att skapa en ny applikation på https://www.linkedin.com/secure/"
+"developer"
 
 #: wp-job-manager-apply-with-linkedin.php:104
 msgid "Cover letter field"
@@ -163,13 +149,11 @@ msgstr "https://wpjobmanager.com/add-ons/apply-with-linkedin/"
 
 #. Description of the plugin/theme
 msgid ""
-"Add an \"Apply with LinkedIn\" button to job listings which have an 'email' "
-"apply method. Requires API keys from LinkedIn (https://www.linkedin.com/"
-"secure/developer)."
+"Add an \"Apply with LinkedIn\" button to job listings which have an 'email' apply method. Requires "
+"API keys from LinkedIn (https://www.linkedin.com/secure/developer)."
 msgstr ""
-"Lägger till en knapp \"Ansök med LinkedIn\" på de jobbannonser som har 'e-"
-"post' som ansökningsmetod. Kräver en API-nyckel från LinkedIn (https://www."
-"linkedin.com/secure/developer)."
+"Lägger till en knapp \"Ansök med LinkedIn\" på de jobbannonser som har 'e-post' som "
+"ansökningsmetod. Kräver en API-nyckel från LinkedIn (https://www.linkedin.com/secure/developer)."
 
 #. Author of the plugin/theme
 msgid "Mike Jolley"
